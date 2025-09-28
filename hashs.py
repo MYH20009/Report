@@ -1,0 +1,9 @@
+api1 = နွား API id ထည့်
+hash1 = "API hash ထည့်နွား "
+api2 = နွား API id ထည့်
+hash2 = "API hash ထည့်"
+api3 = နွား API id ထည့်
+hash3 = "API hash ထည့်"
+s1 = input("Enter Session 1 file name : (eg. mysession.session) : ")
+s2 = input("Enter Session 2 file name : (eg. mysession.session) : ")
+s3 = input("Enter Session 3 file name : (eg. mysession.session) : ")
